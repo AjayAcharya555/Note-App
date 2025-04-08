@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="title">Title</string>
+    <string name="titletwo">Title</string>
+    <string name="description_note">Description</string>
+    <string name="save_note">Save</string>
+</resources>
