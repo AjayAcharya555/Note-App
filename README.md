@@ -9,5 +9,4 @@ Featuers
 
 * This is the screen shot for the android app 
 
-![Screenshot_20250408_121720](https://github.com/user-attachments/assets/cd369248-844e-4a92-a1f8-f0c9c0e073ae)
-![Screenshot_20250408_121737](https://github.com/user-attachments/assets/179ad96a-48b7-4097-b184-ee2fcbcad9a9)
+![Developed by](https://github.com/user-attachments/assets/466a6783-7461-49b8-8697-2f20ccfadcb9)
